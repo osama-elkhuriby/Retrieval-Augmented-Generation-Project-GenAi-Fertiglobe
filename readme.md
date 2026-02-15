@@ -6,6 +6,14 @@ A workshop form Fertiglobe
 
 ### Download Miniconda form https://www.anaconda.com/download
 
+## Recommended Setup
+### Steps to install WSL:
+
+1. Open PowerShell as Administrator.
+2. Run:
+   ```powershell
+   wsl --install
+
 ### Setup the environment
 ```bash
 $ conda create --name myenv python=3.11
