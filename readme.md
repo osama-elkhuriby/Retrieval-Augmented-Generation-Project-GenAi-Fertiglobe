@@ -2,11 +2,10 @@
 A workshop form Fertiglobe
 
 
-## Installations
+## Recommended Setup
 
 ### Download Miniconda form https://www.anaconda.com/download
 
-## Recommended Setup
 ### Steps to install WSL:
 
 1. Open PowerShell as Administrator.
