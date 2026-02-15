@@ -4,6 +4,14 @@ A workshop form Fertiglobe
 
 ## Installations
 
+### Download Miniconda form https://www.anaconda.com/download
+
+### Setup the environment
+```bash
+$ conda create --name myenv python=3.11
+$ conda activate myenv
+```
+
 ### Install the required packages
 ```bash
 $ pip install -r requirements.txt
